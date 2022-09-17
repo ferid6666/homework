@@ -1,0 +1,5 @@
+input m;
+   m%2==0
+    print "Cut"
+  else 
+    print "tek"
